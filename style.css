@@ -1,0 +1,49 @@
+body {
+  font-family: Microsoft JhengHei UI;
+  margin: 0;
+  padding: 0;
+  background-color: #F0F8FF;
+  line-height: 1.5;
+}
+
+header {
+  background: #3eaf7c;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+section {
+  padding: 2rem; 
+}
+
+#chat-content {
+  max-width: 400px;
+  margin: auto;
+}
+
+#messages {
+  border: 1px solid #ddd;
+  height: 200px;
+  overflow-y: scroll;
+  background: white;
+  color:
+}
+
+#send-btn {
+  background: #3eaf7c;
+  color: white;
+  border: none;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul li {
+  display: inline;
+}
